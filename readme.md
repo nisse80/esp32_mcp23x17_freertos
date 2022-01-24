@@ -9,4 +9,4 @@ The programm creates RTOS tasks to keep Pins on an MCP23017 I/O Expander to a de
 ### License
 
 The Adafruit MCP23017 Arduino Library is taken from https://github.com/adafruit/Adafruit-MCP23017-Arduino-Library 
-License is MIT [Copyright 2022 Nils-Henrik Wolf]
+License is MIT [Copyright 2022 Nils-Henrik Wolf nils.h.wolf@gmail.com]
