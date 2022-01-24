@@ -6,7 +6,7 @@
 //      two RTOS tasks keeping Pins on an MCP23017 I/O Expander to a defined state
 //
 //   Created On: 24/01/2022
-//   Created By: Nils-Henrik Wolf nils.h.wolf@gmail.com
+//   Created By: Nils-Henrik Wolf // nils.h.wolf@gmail.com
 //
 //
 //   This code is licensed under MIT license
